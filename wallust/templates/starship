@@ -1,0 +1,27 @@
+format = """$character"""
+right_format = """$all"""
+
+[python]
+symbol=" "
+style = ""
+format = '[[ $symbol ($version) ](fg:{{color4}})]($style)'
+
+[lua]
+symbol="󰢱 "
+style = ""
+format = '[[ $symbol ($version) ](fg:{{color5}})]($style)'
+
+[golang]
+symbol = " "
+style = ""
+format = '[[ $symbol ($version) ](fg:{{color6}})]($style)'
+
+[zig]
+symbol = "  "
+style = ""
+format = '[[ $symbol ($version) ](fg:{{color7}})]($style)'
+
+[c]
+symbol = " "
+style = ""
+format = '[[ $symbol ($version) ](fg:{{color8}})]($style)'
