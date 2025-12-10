@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/glopez/images/1.png"
+let background = "#06070C"
+let foreground = "#ADADB3"
+let cursor     = "#939C97"
+
+" Colors
+let color0  = "#2F241A"
+let color1  = "#3E4050"
+let color2  = "#6D4D51"
+let color3  = "#695D55"
+let color4  = "#A36153"
+let color5  = "#677E69"
+let color6  = "#A27041"
+let color7  = "#81828B"
+let color8  = "#5A5B61"
+let color9  = "#424458"
+let color10 = "#7E555A"
+let color11 = "#796A60"
+let color12 = "#BC5C46"
+let color13 = "#6E8B70"
+let color14 = "#D18C4C"
+let color15 = "#81828B"
